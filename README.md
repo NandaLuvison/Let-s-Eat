@@ -1,2 +1,2 @@
-# Let-s-Eat
+# Let's-Eat
 Restaurant design using JavaScript.
